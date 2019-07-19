@@ -1,0 +1,6 @@
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Entities\bin\Release\WebApi.Entities.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Entities\bin\Release\WebApi.Entities.pdb
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Entities\obj\Release\WebApi.Entities.csprojAssemblyReference.cache
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Entities\obj\Release\WebApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Entities\obj\Release\WebApi.Entities.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Entities\obj\Release\WebApi.Entities.pdb

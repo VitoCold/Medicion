@@ -1,0 +1,5 @@
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Queries\bin\Debug\WebApi.Queries.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Queries\bin\Debug\WebApi.Queries.pdb
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Queries\obj\Debug\WebApi.Queries.csproj.CoreCompileInputs.cache
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Queries\obj\Debug\WebApi.Queries.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Queries\obj\Debug\WebApi.Queries.pdb

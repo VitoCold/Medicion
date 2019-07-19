@@ -1,0 +1,16 @@
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\bin\Debug\WebApi.Repositories.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\bin\Debug\WebApi.Repositories.pdb
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\bin\Debug\WebApi.Entities.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\bin\Debug\WebApi.Repositories.Interfaces.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\bin\Debug\WebApi.Entities.pdb
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\bin\Debug\WebApi.Repositories.Interfaces.pdb
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\obj\Debug\WebApi.Repositories.csprojAssemblyReference.cache
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\obj\Debug\WebApi.Repositories.Migrations.InitialCreate.resources
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\obj\Debug\WebApi.Repositories.Migrations.PrimerCambio240619.resources
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\obj\Debug\WebApi.Repositories.csproj.GenerateResource.cache
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\obj\Debug\WebApi.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\obj\Debug\WebApi.Repositories.csproj.CopyComplete
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\obj\Debug\WebApi.Repositories.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories\obj\Debug\WebApi.Repositories.pdb

@@ -1,0 +1,9 @@
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\bin\Debug\WebApi.Repositories.Interfaces.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\bin\Debug\WebApi.Repositories.Interfaces.pdb
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\bin\Debug\WebApi.Entities.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\bin\Debug\WebApi.Entities.pdb
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\obj\Debug\WebApi.Repositories.Interfaces.csprojAssemblyReference.cache
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\obj\Debug\WebApi.Repositories.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\obj\Debug\WebApi.Repositories.Interfaces.csproj.CopyComplete
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\obj\Debug\WebApi.Repositories.Interfaces.dll
+C:\Users\victor.delgado\Documents\DataSheetsApp\WebAPIDataSheets\WebApi.Repositories.Interfaces\obj\Debug\WebApi.Repositories.Interfaces.pdb
